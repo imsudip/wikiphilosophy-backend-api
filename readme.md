@@ -3,7 +3,9 @@
 This is the backend API for the [Wikiphilosopy project](https://github.com/imsudip/wikiphilosophy).
 It is a REST API built using Flask in Python. It uses BeautifulSoup to scrape the data from Wikipedia.
 
-### Read more about the project [here](https://imsudip.github.io/wikiphilosophy/).
+> #### Read more about the project [here](https://imsudip.github.io/wikiphilosophy/).
+
+### Check out the Web App [here](https://imsudip.github.io/wikiphilosophy/).
 
 ### Don't forget to :star: the repo
 
