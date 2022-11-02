@@ -1,0 +1,5 @@
+{
+    "name": "wikiphil_api",
+    "description": "Backend api interface for wikiphilosophy",
+    "env": []
+}
